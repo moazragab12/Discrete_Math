@@ -1,0 +1,3 @@
+D:/asu_eng/First_Semester_Senior1/Discrete_Math/Project/cmake-build-debug/CMakeFiles/Project.dir
+D:/asu_eng/First_Semester_Senior1/Discrete_Math/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/asu_eng/First_Semester_Senior1/Discrete_Math/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
